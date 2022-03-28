@@ -1,0 +1,15 @@
+{
+    "name": "rea/fizz-buzz",
+    "autoload": {
+        "psr-4": {
+            "Rea\\FizzBuzz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rea",
+            "email": "m.rakhely.viktoria@gmail.com"
+        }
+    ],
+    "require": {}
+}
